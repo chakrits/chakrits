@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chakrit. shortly "CK".
+# 👋 Hi, I’m Chakrit. shortly "CK".
 
 ## Let's talk a bit myself.
 
@@ -14,7 +14,7 @@
 
 
 Badge
-https://www.credly.com/badges/cbf06ca1-078b-4d56-b939-f5f342eff027/public_url
+
 
 <!---
 chakrits/chakrits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
