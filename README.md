@@ -14,7 +14,7 @@
 
 
 Badge
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cbf06ca1-078b-4d56-b939-f5f342eff027" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/cbf06ca1-078b-4d56-b939-f5f342eff027/public_url
 
 <!---
 chakrits/chakrits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
