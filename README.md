@@ -13,9 +13,6 @@
 
 
 
-Badge
-![image](https://github.com/chakrits/chakrits/blob/main/Certification/5G%20For%20Business.png)
-
 <!---
 chakrits/chakrits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
