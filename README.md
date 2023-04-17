@@ -3,10 +3,10 @@
 ## Let's talk a bit myself.
 
 - My name is Chakrit Salaeman
-- I am working for AIS company which position is "Engineer"
-- I'v been working for AIS about 5 years.
+- I am working for Green Line Synergy which position is "Senior Test Engineer"
+- I'v been working exprience about 6 years.
 - 
-- 👀 I’m interested in ...
+- 👀 I’m interested in Cyber Security.
 - 🌱 I’m currently learning about programming.
 - I'm a newbie for this Github.
 
