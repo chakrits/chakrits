@@ -1,16 +1,18 @@
-# 👋 Hi, I’m Chakrit. shortly "CK".
+# 👋 Hi, Everyone. I’m Chakrit.
 
 ## Let's talk a bit myself.
 
-- My name is Chakrit Salaeman
-- I am working for Green Line Synergy which position is "Senior Test Engineer"
-- I'v been working exprience about 6 years.
-- 
-- 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning about programming.
-- I'm a newbie for this Github.
+- My name is Chakrit Salaeman, can call me "CK".
+- I am working in the IT field.
 
+<details>
+<summary>More Detail</summary>
+  
+ - 👀 I’m interested in Cyber Security.
+ - 🌱 I’m currently learning about programming.
+ - I'm a newbie for this Github. This thing will be for practicing and storing my learning.
 
+</details>
 
 
 <!---
